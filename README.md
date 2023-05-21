@@ -37,19 +37,36 @@ You can get it in the cookies using your browser when connected to deezer (varia
 
 ## How to
 
+### Install
+
+Clone the repo
+```bash
+$ git clone https://github.com/Schwarzion/MakeTheDl.git
+$ cd MakeTheDl
+$ python setup.py install
+```
+
 ### Commands
 
 Before every commands (ensure configs are taken in account)
-> cd /path/to/dir/with/.env/file
+```bash
+cd /path/to/dir/with/.env/file
+```
 
 Add completion to your bash (Using typer)
-> makethedl --install-completion
+```bash
+$ makethedl --install-completion
+```
 
 Help
-> makethedl --help
+```bash
+$ makethedl --help
+```
 
 Example
-> makethedl deezer
+```bash
+$ makethedl deezer
+```
 
 
 ### Configuration

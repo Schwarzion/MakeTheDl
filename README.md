@@ -102,6 +102,7 @@ DEEZER_DL_LOCATION=/path/to/wanted/location/for/soundcloud/songs
 - [ ] Windows paths handling
 - [ ] Unit testing
 - [ ] Improved CLI
+- [ ] Automated package publishing from tags
 - [ ] Conf file (not .env)
 - Archive management (differential download) :
     - [ ] Deezer
@@ -116,9 +117,9 @@ DEEZER_DL_LOCATION=/path/to/wanted/location/for/soundcloud/songs
 ## Disclaimer
 
 Never use this package illegally against any of :
-- Deezer terms of use
-- Soundcloud terms of use
-- Youtube terms of use
+- Deezer [terms of use](https://developers.deezer.com/termsofuse)
+- Soundcloud [terms of use](https://soundcloud.com/terms-of-use)
+- Youtube [terms of use](https://www.youtube.com/static?template=terms)
 
 None of the maintainers / developers can be held responsible for misuse of this package.
 

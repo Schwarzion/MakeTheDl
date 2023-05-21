@@ -12,9 +12,9 @@ All downloads are made in MP3 320 kbit/s.
 
 ## DEPENDENCIES
 
-[yt-dlp](https://github.com/yt-dlp/yt-dlp) : youtube info gathering tool package. Licensed under [license](https://github.com/yt-dlp/yt-dlp/blob/master/LICENSE)
+[yt-dlp](https://github.com/yt-dlp/yt-dlp) : youtube info gathering tool package. Licensed under [Unlicense](https://github.com/yt-dlp/yt-dlp/blob/master/LICENSE)
 
-[py-deezer](https://github.com/acgonzales/pydeezer) : deezer info gathering tool package. Licensed under [license](https://choosealicense.com/licenses/gpl-3.0/)
+[py-deezer](https://github.com/acgonzales/pydeezer) : deezer info gathering tool package. Licensed under [GNU GPL v3.0](https://choosealicense.com/licenses/gpl-3.0/)
 
 
 ## Requirements

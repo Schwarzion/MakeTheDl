@@ -22,6 +22,7 @@ All downloads are made in MP3 320 kbit/s.
 ### Python
 
 Tested on Python 3.9.2
+
 Pip version : 20.3.4
 
 ### Pip requirements
